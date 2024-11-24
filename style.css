@@ -1,0 +1,60 @@
+/* General Styles */
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  margin: 0;
+  padding: 0;
+  color: #333;
+  background-color: #f9f9f9;
+}
+
+/* Header */
+header {
+  background-color: #4CAF50;
+  color: white;
+  text-align: center;
+  padding: 1em 0;
+}
+
+header h1 {
+  margin: 0;
+}
+
+/* Main Content */
+main {
+  padding: 20px;
+}
+
+main section {
+  margin-bottom: 20px;
+}
+
+main img {
+  max-width: 100%;
+  height: auto;
+}
+
+/* Button */
+button {
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #45a049;
+}
+
+/* Footer */
+footer {
+  background-color: #333;
+  color: white;
+  text-align: center;
+  padding: 10px 0;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
